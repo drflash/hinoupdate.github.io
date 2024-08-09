@@ -1,0 +1,12 @@
+{
+    "files": [
+        {
+            "name": "file1.pak",
+            "url": "http://yourserver.com/files/file1.pak"
+        },
+        {
+            "name": "file2.pak",
+            "url": "http://yourserver.com/files/file2.pak"
+        }
+    ]
+}
